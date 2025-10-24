@@ -26,7 +26,7 @@ Mentor: <a href="https://www.linkedin.com/in/ubaidillah-amir-1083505a/">Ubaidill
 ---
 
 ### 📁 Struktur File Katalon Studio
-    ├── Profile
+    ├── Profile                                           # Menyimpan kumpulan variabel global (Global Variables) yang digunakan dalam pengujian.
     │   └── default
     ├── Test Cases                                        # Berfungsi untuk menyimpan, mengelola, dan menjalankan skenario pengujian.
     │   ├── 01 Get Users All
