@@ -1,4 +1,4 @@
-# Final Project API Automation Testing at AffterOffice
+# Final Project API Automation Testing at AfterOffice
 #### Source API Server: https://goofy-saguaro-aa5.notion.site/Katalon-Mock-API-28df0a2b8f4d80599e92e4173a6f2b9e
 
 ### 📌 Step Kriteria Penilaian
